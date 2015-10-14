@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Created by Nicklas on 2015-10-14.
+ * test
  */
 public class TestCustomer {
     @Test
